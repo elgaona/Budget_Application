@@ -248,8 +248,8 @@ h2 {
 }
 
 .item__delete--btn {
-    font-size: 22px;
-    background: none;
+    font-size: 30px;
+    background: black;
     border: none;
     cursor: pointer;
     display: inline-block;
